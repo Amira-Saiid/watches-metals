@@ -1,0 +1,17 @@
+{
+  "main": "iwatch.js",
+  "dev": "nodemon index.js",
+  "devDependencies": {
+    "puppeteer": "3.1.0"
+  },
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "\"puppeteer\"",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon DDiamonds.js"
+  },
+  "author": "amira",
+  "license": "ISC"
+}
